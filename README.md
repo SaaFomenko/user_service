@@ -1,2 +1,2 @@
 # user_service
-Example application for manage users
+Library for work users service.
